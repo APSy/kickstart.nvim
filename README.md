@@ -1,5 +1,8 @@
 # kickstart.nvim
 
+* :Lazy to check modules
+* :healthcheck - check for config/module/dependency errors
+
 ## Introduction
 
 A starting point for Neovim that is:
